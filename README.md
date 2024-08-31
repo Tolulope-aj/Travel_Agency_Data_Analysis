@@ -16,18 +16,21 @@ The primary dataset used for this analysis is the "Travel.xlsx" file containing 
 - Customer_ID: A unique identifier for each customer.
 - Customer_Name: The name of the customer.
 - Age: The age of the customer.
-- Gender: The gender of the customer, randomly assigned as "Male" or "Female."
+- Gender: The gender of the customer, i.e., "Male" or "Female."
 - Income_Level: The income level of the customer, categorized as "Low," "Medium," or "High."
 - Destination: The travel destination chosen by the customer.
 - Climate_Info: Information about the climate of the chosen destination, providing insights into the weather conditions.
-- Package_Price: The price of the travel package, generated as a random float within a certain range.
+- Package_Price: The price of the travel package.
+- Real Package_Price: The price paid by customers, i.e., after discount has been applied.
 - Discount: Any applicable discount percentage on the package price.
-- Booking_Date: The date on which the customer made the booking, constrained to dates between 2008 (the agency's start year) and the current date.
-- Cancellation_Rate: The rate of booking cancellations, represented as a random float between 0% and 20%.
+- Revenue: Th revenue generated per booking date.
+- Booking_Date: The date on which the customer made the booking, containing dates between 2008 (the agency's start year) and 2023.
+- Cancellation_Rate: The rate of booking cancellations, ranging from 0% and 20%.
 - Customer_Feedback: Feedback or review provided by the customer about their travel experience.
-- Season: The season in which the travel took place, randomly assigned as "Spring," "Summer," "Fall," or "Winter."
-- Holiday_Info: Information about the type of holiday, selected from predefined options like "Relaxation" or  “Beach Retreat."
-- Is_Returning_Customer: A binary flag indicating whether the customer is a returning customer of the agency (1 for returning, 0 for new).
+- Customer_Rating: Ratings based on customer's travel experience.
+- Season: The season in which the travel took place, i.e., "Spring", "Summer", "Fall", or "Winter".
+- Holiday_Info: Information about the type of holiday, e.g., "Summer Sunshine" or  “Easter Escape".
+- Is_Returning_Customer: indicates whether the customer is a returning customer of the agency ("true" for returning customers or "false" for one-time customers).
 
 ### Methodology
 
