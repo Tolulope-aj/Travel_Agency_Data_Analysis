@@ -2,7 +2,7 @@
 
 ### Project Objective
 
-This  project aims to create an interactive data dashboard that provides comprehensive insights into the travel patterns, customer demographics, financial performance, and customer behavior for a travel agency. The goal is to utilize this dashboard to enhance decision-making processes, optimize marketing strategies, improve customer satisfaction, and ultimately increase the agency's revenue.
+This  project aims to create an interactive data dashboard that provides comprehensive insights into the travel patterns, customer demographics, financial performance, and booking trends for a travel agency. The goal is to utilize this dashboard to enhance decision-making processes, optimize marketing strategies, improve customer satisfaction, and ultimately increase the agency's revenue.
 
 ### Tools Used
 
