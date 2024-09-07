@@ -6,12 +6,12 @@ This  project aims to create an interactive data dashboard that provides compreh
 
 ### Tools Used
 
-- Data Analysis and Visualization: Excel
-- Dashboard Development: Excel
+- Data Analysis and Visualization: Microsoft Excel
+- Dashboard Development: Microsoft Excel
 
 ### Data Description
 
-The primary dataset used for this analysis is the "Travel.xlsx" file containing detailed information on customers, their bookings, package details, and customer feedback. The dataset included the following columns:
+The primary dataset used for this analysis is the "Travel.xlsx" file containing detailed information on customers, their bookings, package details, and customer feedback. The dataset contained 10,000 rows and included the following columns:
 
 - Customer_ID: A unique identifier for each customer.
 - Customer_Name: The name of the customer.
@@ -56,4 +56,4 @@ This EDA provides the foundation for building a comprehensive and insightful das
 
 ### Results and Insights
 
-
+1. 
